@@ -42,5 +42,5 @@ http://www.sogou.com/labs/resource/q.php
 
 ### 1.Q1
 
-![Q1](https://github.com/dddddkio/Data-analysis-of-Sogou-query-log/tree/img/Q1.png)
+![Q1](https://github.com/dddddkio/Data-analysis-of-Sogou-query-log/blob/main/img/Q1.png?raw=true)
 
