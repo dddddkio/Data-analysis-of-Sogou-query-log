@@ -29,6 +29,7 @@ http://www.sogou.com/labs/resource/q.php
 
 
 ## 3. 需求清单（PRD）
+
 1. 使用MapReduce完成搜索词的词频统计
 2. ①使用MapReduce统计每个词被多少个不同的用户搜索②这个词用户所点击的URL中.com和.cn的比例③使用分区功能，将搜索词长度大于等于4的和小于4的结果分开存储
 3. 使用MapReduce统计搜索关键词 [A] 的所有用户集setA，再找出该用户集的所有搜索词setB，再统计setB词频，打印排名 前2名 的词。
@@ -38,9 +39,25 @@ http://www.sogou.com/labs/resource/q.php
 
 
 
-## 4. 具体实现
+## 4. 实现效果
 
 ### 4.1 Q1
 
 ![Q1](https://github.com/dddddkio/Data-analysis-of-Sogou-query-log/blob/main/img/Q1.png?raw=true)
+
+### 4.2 Q2
+
+![Q2](https://github.com/dddddkio/Data-analysis-of-Sogou-query-log/blob/main/img/Q2.png?raw=true)
+
+### 4.3 Q3
+
+![Q3](https://github.com/dddddkio/Data-analysis-of-Sogou-query-log/blob/main/img/Q3.png?raw=true)
+
+
+
+## 5. 注意事项
+
+### 5.1 主类修改位置
+
+![pom](https://github.com/dddddkio/Data-analysis-of-Sogou-query-log/blob/main/img/pom.png?raw=true)
 
