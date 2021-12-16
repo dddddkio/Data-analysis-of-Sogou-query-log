@@ -1,0 +1,16 @@
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q2/sortBean.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q3_Step2/Q3_Step2Mapper.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q3_Step2/Q3_Step2Reducer.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q1/Q1Reducer.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q3_Step2/Q3_Step2Main.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q1/Q1Main.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q2/Q2Partitioner.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q3_Step2/Q3_Step2Partitioner.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q1/Q1Mapper.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q3_Step2/MapValueComparator.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q3_Step1/Q3_Step1Main.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q3_Step1/Q3_Step1Reducer.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q3_Step1/Q3_Step1Mapper.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q2/Q2Main.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q2/Q2Mapper.java
+/home/ubuntu/Code/sogo/Data-analysis-of-Sogou-query-log/src/main/java/com/mapreduce/Q2/Q2Reducer.java

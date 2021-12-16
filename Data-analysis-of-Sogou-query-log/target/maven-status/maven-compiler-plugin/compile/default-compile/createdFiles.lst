@@ -1,0 +1,16 @@
+com/mapreduce/Q2/Q2Reducer.class
+com/mapreduce/Q3_Step2/Q3_Step2Reducer.class
+com/mapreduce/Q2/Q2Mapper.class
+com/mapreduce/Q2/sortBean.class
+com/mapreduce/Q2/Q2Main.class
+com/mapreduce/Q3_Step2/MapValueComparator.class
+com/mapreduce/Q3_Step2/Q3_Step2Main.class
+com/mapreduce/Q1/Q1Main.class
+com/mapreduce/Q3_Step2/Q3_Step2Partitioner.class
+com/mapreduce/Q3_Step2/Q3_Step2Mapper.class
+com/mapreduce/Q3_Step1/Q3_Step1Main.class
+com/mapreduce/Q3_Step1/Q3_Step1Reducer.class
+com/mapreduce/Q3_Step1/Q3_Step1Mapper.class
+com/mapreduce/Q1/Q1Reducer.class
+com/mapreduce/Q1/Q1Mapper.class
+com/mapreduce/Q2/Q2Partitioner.class

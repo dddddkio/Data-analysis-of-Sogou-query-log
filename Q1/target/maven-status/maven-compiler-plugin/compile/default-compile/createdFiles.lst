@@ -1,4 +1,0 @@
-com/mapreduce/javahdfs/MyMapper.class
-com/mapreduce/javahdfs/MyMain.class
-com/mapreduce/javahdfs/partitioner.class
-com/mapreduce/javahdfs/MyReducer.class
